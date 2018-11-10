@@ -1,0 +1,17 @@
+@font-face{
+  font-family:"AdihausDIN";
+  src:url('https://s3-us-west-1.amazonaws.com/shoedidas-static/assets/fonts/AdihausDIN-Regular.woff2');
+}
+
+html {
+  margin: 0px;
+  padding: 0px;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: AdihausDIN,Helvetica,Arial,sans-serif;
+}
+
+body {
+  margin:0px;
+}
